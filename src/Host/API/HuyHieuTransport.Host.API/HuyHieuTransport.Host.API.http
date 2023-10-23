@@ -1,0 +1,6 @@
+@HuyHieuTransport.Host.API_HostAddress = https://localhost:7000
+
+# GET {{HuyHieuTransport.Host.API_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+###
